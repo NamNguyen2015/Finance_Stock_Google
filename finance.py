@@ -16,8 +16,8 @@ st.write("""
         
         """)
         
-#tickerSymbol=['GOOGL','AAPL', 'AMZN', 'TWTR', 'TSLA' ]
-tickerSymbol=['KIN']
+tickerSymbol=['GOOGL','AAPL', 'AMZN', 'TWTR', 'TSLA' ]
+#tickerSymbol=['KIN']
 
 for k in tickerSymbol:
 
